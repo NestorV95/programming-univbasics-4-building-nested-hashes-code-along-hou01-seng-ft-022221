@@ -5,9 +5,8 @@ def third_challenge
          {:lord_montague => {}}
       :matriarch => 
          {:lady_montague => {}}
-      :hero => {
-        #your key/value pairs here
-        },
+      :hero => 
+         { :romeo => {}}
       :hero_friends => []
    }, 
    :capulet => {
