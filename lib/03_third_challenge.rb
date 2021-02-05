@@ -23,7 +23,5 @@ def third_challenge
       :heroine_friends => []
    }
   }
-
-  :montague =   , :benvolio = {} , :mercutio = {} }
-   :capulet = { :lord_capulet = {} , :lady_capulet = {} , :juliet = {} , :steven = {} , :nurse = {}}
+ :capulet = { :lord_capulet = {} , :lady_capulet = {} , :juliet = {} , :steven = {} , :nurse = {}}
 end
