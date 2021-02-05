@@ -11,8 +11,8 @@ def third_challenge
          [:benvolio => {} , :mercutio => {} }]
    }, 
    :capulet => {
-      :patriarch => {
-        
+      :patriarch => 
+        {:lord_capulet => {}}
       :matriarch => {
         #your key/value pairs here
         },
