@@ -24,6 +24,6 @@ def third_challenge
    }
   }
 
-  :montague =   , :romeo = {} , :benvolio = {} , :mercutio = {} }
+  :montague =   , :benvolio = {} , :mercutio = {} }
    :capulet = { :lord_capulet = {} , :lady_capulet = {} , :juliet = {} , :steven = {} , :nurse = {}}
 end
