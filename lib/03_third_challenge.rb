@@ -3,9 +3,8 @@ def third_challenge
    :montague => {
       :patriarch => 
          {:lord_montague => {}}
-      :matriarch => {
-        #your key/value pairs here
-        },
+      :matriarch => 
+         {
       :hero => {
         #your key/value pairs here
         },
@@ -25,6 +24,6 @@ def third_challenge
    }
   }
 
-  :montague =  :lady_montague = {} , :romeo = {} , :benvolio = {} , :mercutio = {} }
+  :montague =   , :romeo = {} , :benvolio = {} , :mercutio = {} }
    :capulet = { :lord_capulet = {} , :lady_capulet = {} , :juliet = {} , :steven = {} , :nurse = {}}
 end
