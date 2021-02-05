@@ -18,8 +18,7 @@ def third_challenge
       :heroine => 
         {:juliet => {}}
       :heroine_friends => 
-        []
+        [:steven => {} , :nurse => {}]
    }
   }
- :capulet = { :lord_capulet = {} , :lady_capulet = {} , :juliet = {} , :steven = {} , :nurse = {}}
 end
