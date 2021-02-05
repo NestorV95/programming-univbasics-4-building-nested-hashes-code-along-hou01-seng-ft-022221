@@ -14,8 +14,7 @@ def third_challenge
       :patriarch => 
         {:lord_capulet => {}}
       :matriarch => {
-        #your key/value pairs here
-        },
+       
       :heroine => {
         #your key/value pairs here
         },
