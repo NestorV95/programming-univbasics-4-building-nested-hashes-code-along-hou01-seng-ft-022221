@@ -15,9 +15,10 @@ def third_challenge
         {:lord_capulet => {}}
       :matriarch => 
         {:lady_capulet => {}} 
-      :heroine => {
-         
-      :heroine_friends => []
+      :heroine => 
+        {:juliet => {}}
+      :heroine_friends => 
+        []
    }
   }
  :capulet = { :lord_capulet = {} , :lady_capulet = {} , :juliet = {} , :steven = {} , :nurse = {}}
